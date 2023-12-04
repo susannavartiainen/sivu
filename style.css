@@ -14,4 +14,7 @@ header {
   color: white;
 }
 
-/* Lisää muita tyylejä tarvittaessa */
+.row {
+  display: flex;
+  background-color:black;
+}
