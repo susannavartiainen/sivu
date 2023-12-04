@@ -17,6 +17,20 @@ body {
     padding-top: 20px;
 }
 
+
+.sivupalkki a {
+  padding: 15px;
+  text-decoration: none;
+  font-size: 18px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sivupalkki a:hover {
+  color: #f1f1f1;
+}
+
 h1 {
     color: #333;
     text-align: center;
