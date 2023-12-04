@@ -8,4 +8,10 @@ h1 {
     color: #333;
 }
 
+header {
+
+ background-color: blue;
+  color: white;
+}
+
 /* Lisää muita tyylejä tarvittaessa */
