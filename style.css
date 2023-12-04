@@ -10,6 +10,17 @@ h1 {
     text-align: center;
 }
 
+main {
+    display: flex;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+}
+
 header {
 
  background-color: gray;
@@ -37,10 +48,22 @@ li {
     padding: 10px;
 }
 
+aside {
+    width: 200px;
+    padding: 20px;
+    background-color: #e0e0e0;
+}
+
 a {
     text-decoration: none;
     color: #333;
     font-weight: bold;
+}
+
+article {
+    flex: 1;
+    padding: 20px;
+    background-color: #f4f4f4;
 }
 
 a:hover {
