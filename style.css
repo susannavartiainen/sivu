@@ -5,6 +5,18 @@ body {
     background-color: white;
 }
 
+.sivupalkki {
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: black;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
 h1 {
     color: #333;
     text-align: center;
