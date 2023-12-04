@@ -19,3 +19,7 @@ header {
   display: flex;
   background-color:black;
 }
+
+.column {
+  flex: 33.33%;
+}
