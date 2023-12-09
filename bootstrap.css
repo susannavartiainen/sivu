@@ -23,6 +23,25 @@
     padding-top: 20px;
 }
 
+.sivupalkki1 a {
+  padding: 15px;
+  text-decoration: none;
+  font-size: 18px;
+  color: #000000;
+  display: block;
+  transition: 0.3s;
+
+    }
+
+    .sivupalkki2 a {
+  padding: 15px;
+  text-decoration: none;
+  font-size: 18px;
+  color: #000000;
+  display: block;
+  transition: 0.3s;
+
+        }
 
 
 
