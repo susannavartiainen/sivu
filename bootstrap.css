@@ -1,6 +1,6 @@
 .sivupalkki1 {
     height: 100%;
-    width: 160px;
+    width: 200px;
     position: fixed;
     z-index: 1;
     top: 0;
@@ -13,7 +13,7 @@
 
 .sivupalkki2 {
     height: 100%;
-    width: 160px;
+    width: 200px;
     position: fixed;
     z-index: 1;
     top: 0;
