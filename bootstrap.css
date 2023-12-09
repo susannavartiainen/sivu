@@ -58,12 +58,12 @@ background-color: #e3e0d8;
 
 .btn-primary {
 background-color: #e3e0d8;
-    transition: width 2s;
+   transition: width 2s;
 }
 
 
 .btn-primary:hover {
-background-color: #000000;
+width: 300px;
 }
 
 
