@@ -1,4 +1,7 @@
-
+.nav{
+opacity: 0.65;
+	
+}
 .bg-image {
 
 	background-image: url('https://mdbootstrap.com/img/Photos/Others/images/76.jpg');
