@@ -1,12 +1,12 @@
 .navbar navbar-expand-lg navbar-light bg-light{
 
-opacity: 0.7;
-background: linear-gradient(to right, blue , purple);
 }
 
 
 .nav{
-opacity: 0.3;	
+opacity: 0.7;
+background: linear-gradient(to right, blue , purple);
+	
 }
 .bg-image {
 
@@ -109,10 +109,9 @@ object-fit: contain;
 h1 {
 padding: 80px;
 
-	/* background: -webkit-linear-gradient(rgb(219, 105, 164), rgb(48, 42, 76));  */
-		background: linear-gradient(to right, red , blue);
-          	  -webkit-background-clip: text;
-         	   -webkit-text-fill-color: transparent;
+	background: linear-gradient(to right, red , blue);
+           -webkit-background-clip: text;
+         	 -webkit-text-fill-color: transparent;
 	
 }
 
