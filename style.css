@@ -12,7 +12,7 @@ body {
     z-index: 1;
     top: 0;
     left: 0;
-    background-color: #0d6efd;
+    background-color: #333333;
     overflow-x: hidden;
     padding-top: 20px;
 }
@@ -60,14 +60,15 @@ footer {
 
 header {
 
- background-color: #0d6efd;
+ background-color: #000000;
   color: gray;
     margin-left: 160px;
 }
 
 .row {
   display: flex;
-  background-color: #9ec5fe;
+  background-color: #FFFFFF;
+  
 }
 
 .column {
