@@ -92,6 +92,12 @@ max-width: 100%;
 object-fit: contain;
 }
 
+.card-body{
+
+opacity: 0.33;
+	
+}
+
 h1 {
 padding: 80px;
 
