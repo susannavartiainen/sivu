@@ -54,8 +54,9 @@ background-color: #0d6efd;
 font-size: 60px;
 text-align: center;
 background-image: url(https://images.pexels.com/photos/2719301/pexels-photo-2719301.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-height: 250px;
-max-width: 100%;
+	background-size: cover;
+		height: 100%;
+		max-width: 100%;
 background-color: #e3e0d8;
 
 }
