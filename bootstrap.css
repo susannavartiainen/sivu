@@ -1,3 +1,10 @@
+.navbar navbar-expand-lg navbar-light bg-light{
+
+opacity: 0.7;
+background: linear-gradient(to right, blue , purple);
+}
+
+
 .nav{
 opacity: 0.3;	
 }
