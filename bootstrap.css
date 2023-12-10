@@ -89,6 +89,10 @@ object-fit: contain;
 
 h1 {
 padding: 80px;
+
+	background: -webkit-linear-gradient(rgb(219, 105, 164), rgb(48, 42, 76));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
 	
 }
 
