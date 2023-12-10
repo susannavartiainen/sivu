@@ -77,7 +77,7 @@ width: 300px;
   }
 
 
-img {
+.card-body img {
 
 display: block;
 margin-left: auto;
