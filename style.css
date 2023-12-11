@@ -17,6 +17,10 @@ body {
     padding-top: 20px;
 }
 
+.varjo {
+box-shadow: 10px 5px 5px grey;
+    
+}
 
 .sivupalkki a {
   padding: 15px;
