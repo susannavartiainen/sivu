@@ -78,7 +78,15 @@ footer {
     background-color: #333;
     color: white;
     margin-left: 160px;
+    animation-name: animaatio;
+    animation-duration: 4s;
 }
+@keyframes animaatio {
+from {background-color: #333}
+    to {background-color: yellow}
+    
+}
+
 
 header {
 
