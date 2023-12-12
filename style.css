@@ -26,13 +26,13 @@ margin-left: 160px;
   padding: 15px;
   text-decoration: none;
   font-size: 18px;
-  color: #000000;
+  color: white;
   display: block;
   transition: 0.3s;
 }
 
 .sivupalkki a:hover {
-  color: white;
+  color: black;
 }
 
 h1 {
