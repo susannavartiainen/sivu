@@ -1,124 +1,84 @@
-
-.nav{
-opacity: 0.7;
-background: linear-gradient(to right, blue , purple);
-	
+ article{
+     color: white;
 }
-.bg-image {
-
-	background-image: url('https://mdbootstrap.com/img/Photos/Others/images/76.jpg');
-        height: 100vh">
-	
+ .nav{
+     opacity: 0.7;
+     background: linear-gradient(to right, blue , purple);
 }
-
-.sivupalkki1 {
-    height: 100%;
-    width: 200px;
-    position: fixed;
-    z-index: 1;
-    top: 0;
-    left: 0;
-    background-color: #0d6efd;
-    overflow-x: hidden;
-    padding-top: 20px;
+ .navbar-collapse {
+     flex-basis: 100%;
+     -webkit-box-flex: 1;
+     -ms-flex-positive: 1;
+     flex-grow: 1;
+     -webkit-box-align: center;
 }
-
-
-.sivupalkki2 {
-    height: 100%;
-    width: 200px;
-    position: fixed;
-    z-index: 1;
-    top: 0;
-    right: 0;
-    background-color: #0d6efd;
-    overflow-x: hidden;
-    padding-top: 20px;
+ .bg-image {
+     background-image: url('https://mdbootstrap.com/img/Photos/Others/images/76.jpg');
+     height: 100vh"> 
 }
-
-.sivupalkki1 a {
-  padding: 15px;
-  text-decoration: none;
-  font-size: 18px;
-  color: #000000;
-  display: block;
-  transition: 0.3s;
-
-    }
-
-    .sivupalkki2 a {
-  padding: 15px;
-  text-decoration: none;
-  font-size: 18px;
-  color: #000000;
-  display: block;
-  transition: 0.3s;
-
-        }
-
-
-
-.bg-primary {
-font-size: 80px;
-text-align: center;
-background-image: url(https://images.pexels.com/photos/2719301/pexels-photo-2719301.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-	background-size: cover;
-		height: 100%;
-		max-width: 100%;
-background-color: #e3e0d8;
-
+ .sivupalkki1 {
+     height: 100%;
+     width: 200px;
+     position: fixed;
+     z-index: 1;
+     top: 0;
+     left: 0;
+     background-color: #0d6efd;
+     overflow-x: hidden;
+     padding-top: 20px;
 }
-
-.btn-primary {
-background-color: #e3e0d8;
-   transition: width 2s;
-	
+ .sivupalkki2 {
+     height: 100%;
+     width: 200px;
+     position: fixed;
+     z-index: 1;
+     top: 0;
+     right: 0;
+     background-color: #0d6efd;
+     overflow-x: hidden;
+     padding-top: 20px;
 }
-
-
-.btn-primary:hover {
-width: 300px;
+ .bg-primary {
+     font-size: 80px;
+     text-align: center;
+     background-image: url(https://images.pexels.com/photos/2719301/pexels-photo-2719301.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+     background-size: cover;
+     height: 100%;
+     max-width: 100%;
+     background-color: #e3e0d8;
 }
-
-
-
-
-.card-body img {
-
-display: block;
-margin-left: auto;
-margin-right: auto;
-max-width: 100%;
-object-fit: contain;
+ .btn-primary {
+     background-color: #e3e0d8;
+     transition: width 2s;
 }
-
-.tausta{
-
-background-color:#302A4C ;
-	
+ .btn-primary:hover {
+     width: 300px;
 }
-
-h1 {
-padding: 80px;
-font-family: 'Brush Script MT', cursive;
-	background: linear-gradient(to right, red , blue);
-           -webkit-background-clip: text;
-         	 -webkit-text-fill-color: transparent;
-	
+ .card-body img {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     max-width: 100%;
+     object-fit: contain;
 }
-
-.hero-unit h1 {
-  font-family: Georgia, serif;
-
+ .tausta{
+     background-color:#302A4C ;
 }
-
-h2{
-  text-align: center;
-
+ h1 {
+     padding: 80px;
+     font-family: 'Brush Script MT', cursive;
+     background: linear-gradient(to right, red , blue);
+     -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
 }
-
-
-h5 {
-
-text-align: center;
-    }
+ .hero-unit h1 {
+     font-family: Georgia, serif;
+}
+ h2{
+     text-align: center;
+     color: white;
+}
+ h5 {
+     text-align: center;
+}
+ 
