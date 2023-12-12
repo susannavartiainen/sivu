@@ -132,11 +132,18 @@ a {
 section {
     flex: 1;
     padding: 20px;
-    background-color: #f4f4f4;
+    background-color: grey
     font-family: 'baskerville', serif;
     text-align: left;
 }
 
+article {
+    flex: 1;
+    padding: 20px;
+    background-color: #f4f4f4;
+    font-family: 'baskerville', serif;
+    text-align: left;
+}
 a:hover {
     color: #000;
 }
