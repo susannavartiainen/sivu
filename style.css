@@ -69,7 +69,6 @@ p {
 main {
     display: flex;
     flex-wrap: wrap;
-    margin-left: 160px;
 }
 
 footer {
